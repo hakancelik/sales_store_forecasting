@@ -52,7 +52,6 @@ Key insights and visualizations were derived through:
 - Heatmaps to illustrate the correlation between numerical features.
 - Trend analysis of monthly sales and profit.
 
-![Sales Distribution](./assets/sales_distribution.png)
 
 ## Modeling
 
@@ -70,8 +69,9 @@ The following metrics were used to evaluate model performance:
 
 | Metric                  | Value           |
 |-------------------------|-----------------|
-| **Mean Squared Error**   | X.XX            |
-| **R^2 Score**            | X.XX            |
+| **Mean Squared Error**  | 12780.86223084061     |
+| **R^2 Score**           | 0.28550818881264695   |
+
 
 Visualizations of actual vs. predicted profits provide insight into model accuracy.
 
